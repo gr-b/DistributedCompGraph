@@ -1,0 +1,85 @@
+Script started on Thu 29 Sep 2016 09:22:03 PM PDT
+]0;osvm@ubuntu: ~/Desktop/project3final/project3/examplesosvm@ubuntu:~/Desktop/project3final/project3/examples$ cat ex1 && graph [K[K[K[K[K[K./graph ex1
+A 1 1
+B 2 1 A
+C 3 1 A
+D 4 1 B C
+CS3013: Operating Systems Project 3
+Recieved (2) arguments.
+Loading file: (ex1)
+File ex1 opened successfully!
+Node (A) computed a value of (1) after (1) seconds.
+Node (B) computed a value of (2) after (2) seconds.
+Node (C) computed a value of (3) after (2) seconds.
+Node (D) computed a value of (4) after (3) seconds.
+Total computation resulted in a value of 10 after 3 seconds.
+]0;osvm@ubuntu: ~/Desktop/project3final/project3/examplesosvm@ubuntu:~/Desktop/project3final/project3/examples$ cat ex1 && ./graph ex1[C[K2[1@2[C[1P[1P[1@2
+A 1 B 0
+C 2 1
+CS3013: Operating Systems Project 3
+Recieved (2) arguments.
+Loading file: (ex2)
+File ex2 opened successfully!
+Incorrect graph file format
+]0;osvm@ubuntu: ~/Desktop/project3final/project3/examplesosvm@ubuntu:~/Desktop/project3final/project3/examples$ cat ex2 && ./graph ex2[K3[C[1P[1@3
+a 1 1
+b 2 1
+c 3 1
+CS3013: Operating Systems Project 3
+Recieved (2) arguments.
+Loading file: (ex3)
+File ex3 opened successfully!
+Incorrect graph file format
+]0;osvm@ubuntu: ~/Desktop/project3final/project3/examplesosvm@ubuntu:~/Desktop/project3final/project3/examples$ cat ex3 && ./graph ex3[C[K4[C[1P[1@4
+A 1 1 1 B
+B 1 2 
+CS3013: Operating Systems Project 3
+Recieved (2) arguments.
+Loading file: (ex4)
+File ex4 opened successfully!
+Incorrect graph file format
+]0;osvm@ubuntu: ~/Desktop/project3final/project3/examplesosvm@ubuntu:~/Desktop/project3final/project3/examples$ cat ex4 && ./graph ex4[K5[C[1P[1@5
+:
+CS3013: Operating Systems Project 3
+Recieved (2) arguments.
+Loading file: (ex5)
+File ex5 opened successfully!
+Incorrect graph file format
+]0;osvm@ubuntu: ~/Desktop/project3final/project3/examplesosvm@ubuntu:~/Desktop/project3final/project3/examples$ cat ex5 && ./graph ex5[K6[1P[1@6
+A 1 1
+B 0 1 A = 23 2 4 * +
+C 0 1 A = V 2 %
+D 0 1 B C = I V +
+CS3013: Operating Systems Project 3
+Recieved (2) arguments.
+Loading file: (ex6)
+File ex6 opened successfully!
+Node (A) computed a value of (1) after (1) seconds.
+Node (B) computed a value of (31) after (2) seconds.
+Node (C) computed a value of (0) after (2) seconds.
+Node (D) computed a value of (35) after (3) seconds.
+Total computation resulted in a value of 67 after 3 seconds.
+]0;osvm@ubuntu: ~/Desktop/project3final/project3/examplesosvm@ubuntu:~/Desktop/project3final/project3/examples$ cat ex6 && ./graph ex6[K7[C[1P[1@7
+A 1 1
+B 0 1 A = 1 2 3 10 6 + % / +
+CS3013: Operating Systems Project 3
+Recieved (2) arguments.
+Loading file: (ex7)
+File ex7 opened successfully!
+Node (A) computed a value of (1) after (1) seconds.
+Node (B) computed a value of (1) after (2) seconds.
+Total computation resulted in a value of 2 after 2 seconds.
+]0;osvm@ubuntu: ~/Desktop/project3final/project3/examplesosvm@ubuntu:~/Desktop/project3final/project3/examples$ cat ex7 && ./graph ex7[K8[1P[1@8
+A 1 1
+B 0 1 = 83489234 2 +
+CS3013: Operating Systems Project 3
+Recieved (2) arguments.
+Loading file: (ex8)
+File ex8 opened successfully!
+Node (B) computed a value of (83489236) after (1) seconds.
+Node (A) computed a value of (1) after (1) seconds.
+Total computation resulted in a value of 83489237 after 1 seconds.
+]0;osvm@ubuntu: ~/Desktop/project3final/project3/examplesosvm@ubuntu:~/Desktop/project3final/project3/examples$ exit
+exit
+
+Script done on Thu 29 Sep 2016 09:25:03 PM PDT
